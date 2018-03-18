@@ -1,7 +1,7 @@
 # BMIC Projects
 This repository is a collection of programs written by me on BMIC lessons on BUT (VUT Brno in Czech).
-These programs are written in Assembler/C, task description is included in each main file, when possible.
-All projects are for HCS08 MCU family 
+These programs are written in Assembly/C, task description is included in each main file, when possible.
+All projects are for MC9S08LH64 MCU (from the HCS08 family)
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
