@@ -1,0 +1,8 @@
+Project_Settings/Linker_Files/burner.bbl
+Project_Settings/Debugger/MC9S08LH64.mem
+Project_Settings/Debugger/MC9S08LH64.tcl
+Sources/main.asm
+Project_Headers/MC9S08LH64.inc
+Project_Headers/derivative.inc
+.settings/com.freescale.core.ide.newprojectwizard.prefs
+ReferencedRSESystems.xml
